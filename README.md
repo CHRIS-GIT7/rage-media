@@ -1,2 +1,1 @@
-This is a simlpe Html, css, and JavaScript landing page.
-I was trying to use my own general knowledge for contact info for the footer component in the html file because of time but when I was given extra time, I had to update it.
+This landing page is built with HTML, CSS, and JavaScript. The initial version of the footer contained generic contact information as a placeholder. After receiving a time extension, I was able to replace the placeholder content with the final, accurate contact details.
