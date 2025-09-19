@@ -1,1 +1,1 @@
-This landing page is built with HTML, CSS, and JavaScript. The initial version of the footer contained generic contact information as a placeholder. After receiving a time extension, I was able to replace the placeholder content with the final, accurate contact details.
+A responsive landing page built with HTML, CSS, and JavaScript.
